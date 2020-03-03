@@ -1,0 +1,22 @@
+2020-03-02 15:58:41,024 INFO  [LoginPage] Login is Successful !!
+2020-03-02 15:58:42,446 INFO  [HomePage] STB Configuration list page opened
+2020-03-02 15:58:42,471 INFO  [StbConfigPage] List of available STB Configurations: stbc_ex1
+2020-03-02 15:58:43,202 INFO  [HomePage] Add STB Configuration page opened
+2020-03-02 15:58:44,818 INFO  [StbConfigPage] New stb configuration stbc_ex3 added !!
+2020-03-02 15:58:44,850 INFO  [StbConfigPage] List of available STB Configurations: stbc_ex1, stbc_ex3
+2020-03-02 15:58:47,324 INFO  [StbConfigPage] STB Config stbc_ex3 added to database
+2020-03-02 15:58:48,088 INFO  [HomePage] STB Configuration list page opened
+2020-03-02 15:58:51,137 INFO  [StbConfigPage] STB Configuration stbc_ex3 deleted successfully!!
+2020-03-02 15:58:53,627 INFO  [StbConfigPage] STB Config stbc_ex3 deleted from database
+2020-03-02 15:58:53,653 INFO  [StbConfigPage] List of available STB Configurations: stbc_ex1
+2020-03-02 15:58:54,116 INFO  [HomePage] Add STB Configuration page opened
+2020-03-02 15:58:55,666 INFO  [StbConfigPage] New stb configuration stbc_ex3 added !!
+2020-03-02 15:58:56,126 INFO  [HomePage] Add STB Configuration page opened
+2020-03-02 15:58:58,642 INFO  [StbConfigPage] STB Config stbc_ex3 added to database
+2020-03-02 15:58:59,100 INFO  [HomePage] Add STB Configuration page opened
+2020-03-02 15:59:00,350 INFO  [StbConfigPage] Assertion failed. Couldn't Add stb configuration stbc_ex3
+2020-03-02 15:59:00,400 INFO  [StbConfigPage] Cannot save because the stb_config_name already used by another record, please enter a different value.
+2020-03-02 15:59:01,164 INFO  [HomePage] STB Configuration list page opened
+2020-03-02 15:59:04,205 INFO  [StbConfigPage] STB Configuration stbc_ex3 deleted successfully!!
+2020-03-02 15:59:06,715 INFO  [StbConfigPage] STB Config stbc_ex3 deleted from database
+2020-03-02 15:59:08,466 INFO  [LoginPage] Successfully Logged Out!!
